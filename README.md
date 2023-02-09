@@ -1,0 +1,2 @@
+# shima
+cout<<"wecome ;
